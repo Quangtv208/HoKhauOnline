@@ -1,0 +1,14 @@
+.container{
+    width: 100%;
+    text-align: center;
+    border: 0 none black 5px;
+}
+.container>h1{
+    color: orangered;
+    font-family: 'Times New Roman';
+
+}
+.container>h3{
+    color: black;
+    
+}
